@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
-import com.aliencode.rms_backend.CapaDatos.Entidades.Persona;
+
 import com.aliencode.rms_backend.CapaDatos.Entidades.Usuario;
 import com.aliencode.rms_backend.CapaDatos.Servicio.Usuario.UsuarioServicio;
 import com.aliencode.rms_backend.CapaLogica.ValidacionDatos.GenericValidacion;
